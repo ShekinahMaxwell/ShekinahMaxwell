@@ -21,7 +21,7 @@
 [<img align="left" alt="YouTube Logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Instagram Logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[youtube]: https://www.youtube.com/c/collectivelykinah
+[youtube]: https://www.youtube.com/collectivelykinah
 [instagram]: https://www.instagram.com/collectivelykinah/
 
 

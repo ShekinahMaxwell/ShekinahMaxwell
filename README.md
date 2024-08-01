@@ -12,7 +12,7 @@
 <h2>Software Development Projects:</h2>
 
 - <b>Intro To Web Design</b>
-  - [Project1](https://github.com/ShekinahMaxwell/LABURL)
+  - [Project1: Hello World!](https://github.com/ShekinahMaxwell/LABURL)
   - [Project2](https://github.com/ShekinahMaxwell/LABURL)
 - <b>🐍 Python</b>
   - [Project1](https://github.com/ShekinahMaxwell/LABURL)

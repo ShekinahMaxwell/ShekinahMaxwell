@@ -3,7 +3,7 @@
 <h2>👩🏽‍💻 General IT Projects:</h2>
 
   - [PC Build](https://github.com/ShekinahMaxwell/LABURL)
-  - [Virtual Machines](https://github.com/ShekinahMaxwell/LABURL)
+  - [Azure Compute and Networking](https://github.com/ShekinahMaxwell/LABURL)
 
 <h2>Cybersecurity Projects:</h2>  
 

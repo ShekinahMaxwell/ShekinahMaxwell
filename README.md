@@ -3,9 +3,9 @@
 <h2>👩🏽‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/ShekinahMaxwell/LABURL)
-  - [osTicket: Post-Installation Configuration](https://github.com/ShekinahMaxwell/LABURL)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/ShekinahMaxwell/LABURL)
+  - osTicket: Prerequisites and Installation
+  - osTicket: Post-Installation Configuration
+  - osTicket: Ticket Lifecycle Examples
 
 - <b>Microsoft Azure</b>
    - [Azure Network Computing](https://github.com/ShekinahMaxwell/Azure_NetworkComputing)

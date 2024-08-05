@@ -8,7 +8,8 @@
   - osTicket: Ticket Lifecycle Examples
 
 - <b>Microsoft Azure</b>
-   - [Azure Network Computing](https://github.com/ShekinahMaxwell/Azure_NetworkComputing)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ShekinahMaxwell/Azure_NetworkComputing)
    
 - <b>General IT</b>
   - PC Build

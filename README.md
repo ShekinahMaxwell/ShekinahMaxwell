@@ -16,15 +16,13 @@
 
 <h2>Cybersecurity Projects:</h2>  
 
-  - [Active Directory Home Lab](https://github.com/ShekinahMaxwell/ActiveDirectory_Home_Lab)
+  - <b>Active Directory Home Lab</b> <!--(https://github.com/ShekinahMaxwell/ActiveDirectory_Home_Lab)-->
 
 <h2>Software Development Projects:</h2>
 
 - <b>Intro To Web Design</b>
   - Project 1: Hello World!
-  - Project 2:
 - <b>🐍 Python</b>
-  - Project 1:
 
 
 <h2>Certifications:</h2>

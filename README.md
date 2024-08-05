@@ -1,4 +1,4 @@
-<h1>Hi, I'm Shekinah☺️ </h1>
+<h1>Hi I'm Shekinah. Welcome to my GitHub.</h1>
 
 <h2>👩🏽‍💻 Information Technology Projects:</h2>
 

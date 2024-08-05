@@ -7,21 +7,23 @@
   - [osTicket: Post-Installation Configuration](https://github.com/ShekinahMaxwell/LABURL)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ShekinahMaxwell/LABURL)
 
+- <b>Microsoft Azure</b>
+   - [Azure Network Computing](https://github.com/ShekinahMaxwell/Azure_NetworkComputing)
+   
 - <b>General IT</b>
   - PC Build
-  - [Azure Network Computing](https://github.com/ShekinahMaxwell/Azure_NetworkComputing)
 
 <h2>Cybersecurity Projects:</h2>  
 
-  - [Active Directory Home Lab](https://github.com/ShekinahMaxwell/ActiveDirectory_Lab1/tree/main)
+  - Active Directory Home Lab
 
 <h2>Software Development Projects:</h2>
 
 - <b>Intro To Web Design</b>
-  - [Project1: Hello World!](https://github.com/ShekinahMaxwell/LABURL)
-  - [Project2](https://github.com/ShekinahMaxwell/LABURL)
+  - Project 1: Hello World!
+  - Project 2:
 - <b>🐍 Python</b>
-  - [Project1](https://github.com/ShekinahMaxwell/LABURL)
+  - Project 1:
 
 
 <h2>Certifications:</h2>

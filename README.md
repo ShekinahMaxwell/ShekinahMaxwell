@@ -1,8 +1,14 @@
 <h1>Hi, I'm Shekinah. Welcome to my GitHub. </h1>
 
-<h2>👩🏽‍💻 General IT Projects:</h2>
+<h2>👩🏽‍💻 Information Technology Projects:</h2>
 
-  - [PC Build](https://github.com/ShekinahMaxwell/LABURL)
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/ShekinahMaxwell/LABURL)
+  - [osTicket: Post-Installation Configuration](https://github.com/ShekinahMaxwell/LABURL)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/ShekinahMaxwell/LABURL)
+
+- <b>General IT</b>
+  - PC Build
   - [Azure Network Computing](https://github.com/ShekinahMaxwell/Azure_NetworkComputing)
 
 <h2>Cybersecurity Projects:</h2>  

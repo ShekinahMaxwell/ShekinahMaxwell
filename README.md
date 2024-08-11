@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ShekinahMaxwell/osTicket-Ticket_Lifecycle)
 
 - <b>Microsoft Azure</b>
-  - [On-premises Activce Directory Deployed in the Cloud (Azure)](https://github.com/ShekinahMaxwell/Active-Directory-Deployed-in-the-Cloud-Azure/blob/main/README.md)
+  - [On-premises Active Directory Deployed in the Cloud (Azure)](https://github.com/ShekinahMaxwell/Active-Directory-Deployed-in-the-Cloud-Azure/blob/main/README.md)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ShekinahMaxwell/Azure_NetworkComputing)
    
 - <b>General IT</b>

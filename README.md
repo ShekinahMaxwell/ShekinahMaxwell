@@ -21,7 +21,7 @@
 <h2>Software Development Projects:</h2>
 
 - <b>Intro To Web Design</b>
-  - Project 1: Hello World!
+  - [Project 1: Hello World!](https://github.com/ShekinahMaxwell/Project-1-Hello-World-/blob/main/README.md)
 - <b>🐍 Python</b>
 
 

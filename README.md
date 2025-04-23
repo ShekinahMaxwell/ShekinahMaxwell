@@ -26,7 +26,10 @@
 
 
 <h2>Certifications:</h2>
-  <b>CompTIA Security+ Certification Study log</b>
+
+- <b>CompTIA Security+</b>
+  - [CompTIA Security+ Certification Study log](https://github.com/ShekinahMaxwell/CompTIA-Security-Plus_Study_Log/tree/main)
+
 
 <h2>Connect with me:</h2>
 

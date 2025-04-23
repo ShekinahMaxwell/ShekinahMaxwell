@@ -17,7 +17,6 @@
 <h2>Cybersecurity Projects:</h2>  
 
   - <b>Active Directory Home Lab</b> <!--(https://github.com/ShekinahMaxwell/ActiveDirectory_Home_Lab)-->
-  - <b>CompTIA Security+ Certification Study log</b>
 
 <h2>Software Development Projects:</h2>
 
@@ -27,6 +26,7 @@
 
 
 <h2>Certifications:</h2>
+  <b>CompTIA Security+ Certification Study log</b>
 
 <h2>Connect with me:</h2>
 

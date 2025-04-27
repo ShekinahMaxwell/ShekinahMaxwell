@@ -18,6 +18,9 @@
 
   - <b>Active Directory Home Lab</b> <!--(https://github.com/ShekinahMaxwell/ActiveDirectory_Home_Lab)-->
 
+  - <b>Linux</b>
+    - Install a Virtual Machine and run Linux
+
 <h2>Software Development Projects:</h2>
 
 - <b>Intro To Web Design</b>

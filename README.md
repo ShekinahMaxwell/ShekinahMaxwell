@@ -21,6 +21,11 @@
   - <b>Linux</b>
     - Install a Virtual Machine and run Linux
 
+  - <b>PowerShell</b>
+    - Create and Compare Hashes
+   
+  
+
 <h2>Software Development Projects:</h2>
 
 - <b>Intro To Web Design</b>

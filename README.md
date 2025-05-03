@@ -22,7 +22,7 @@
     - Install a Virtual Machine and run Linux
 
   - <b>PowerShell</b>
-    - Create and Compare Hashes
+    - [Create and Compare Hashes](https://github.com/ShekinahMaxwell/PowersShell-Create_Compare_Hashes)
    
   
 

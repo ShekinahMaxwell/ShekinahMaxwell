@@ -12,6 +12,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ShekinahMaxwell/Azure_NetworkComputing)
    
 - <b>General IT</b>
+  - PC Dismantle
   - PC Build
 
 <h2>Cybersecurity Projects:</h2>  

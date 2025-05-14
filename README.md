@@ -13,6 +13,7 @@
    
 - <b>General IT</b>
   - [PC Disassembly](https://github.com/ShekinahMaxwell/PC_Disassembly)
+  - [PC Assembly]   
   - PC Build
 
 <h2>Cybersecurity Projects:</h2>  

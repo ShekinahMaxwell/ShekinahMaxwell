@@ -12,7 +12,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ShekinahMaxwell/Azure_NetworkComputing)
    
 - <b>General IT</b>
-  - PC Dismantle
+  - [PC Disassembly](https://github.com/ShekinahMaxwell/PC_Disassembly)
   - PC Build
 
 <h2>Cybersecurity Projects:</h2>  

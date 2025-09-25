@@ -16,7 +16,7 @@
   - [PC Assembly]   
   - PC Build
 
-<h2>Cybersecurity Projects:</h2>  
+<h2>Cybersecurity Activities Log:</h2>  
 
   - <b>Active Directory Home Lab</b> <!--(https://github.com/ShekinahMaxwell/ActiveDirectory_Home_Lab)-->
 
@@ -27,6 +27,12 @@
     - [Create and Compare Hashes](https://github.com/ShekinahMaxwell/PowerShell-Create_Compare_Hashes)
     
   - <b> Remote-in </b>
+
+  - <b> Capture-The-Flag </b>
+
+  - <b> Try Hack Me </b>
+
+  - <b> Vulnerability Disclosure Program </b>
     
    
   
@@ -48,5 +54,5 @@
 
 [<img align="left" alt="ShekinahMaxwell | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/maxwell2024
+[linkedin]: https://linkedin.com/in/maxwell2025
 

@@ -33,9 +33,6 @@
   - <b> Try Hack Me </b>
 
   - <b> Vulnerability Disclosure Program </b>
-    
-   
-  
 
 <h2>Software Development Projects:</h2>
 
@@ -48,7 +45,10 @@
 
 <!--- <b>CompTIA Security+</b>-->
   <!--- [CompTIA Security+ Certification Study log](https://github.com/ShekinahMaxwell/CompTIA-Security-Plus_Study_Log/tree/main)-->
+  
+<h2>Professioinal Development</h2> 
 
+- [Webinar: Decrypted: True Stories of SNHU Cyber Incidents - Job Scam Emails]
 
 <h2>Connect with me:</h2>
 

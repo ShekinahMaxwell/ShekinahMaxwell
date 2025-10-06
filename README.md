@@ -41,7 +41,8 @@
   
 <h2>Professional Development:</h2> 
 
-- [Webinar: Decrypted: True Stories of SNHU Cyber Incidents - Job Scam Emails]
+- [Webinar: Decrypted: True Stories of SNHU Cyber Incidents - Job Scam Emails]\
+- [Conference: Diversitech - Tribaja 2025]
 
 <h2>Connect with me:</h2>
 

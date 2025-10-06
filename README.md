@@ -24,8 +24,6 @@
     
   - <b> Remote-in </b>
 
-  - <b> Vulnerability Disclosure Program </b>
-
 <h2>Certifications:</h2>
 
 <!--- <b>CompTIA Security+</b>-->

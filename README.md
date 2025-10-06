@@ -39,7 +39,7 @@
 - [Capture The Flag Events](https://github.com/ShekinahMaxwell/Capture-The-Flag-Events.git)
 - [Try Hack Me]
 - [Webinars](https://github.com/ShekinahMaxwell/Webinars.git)
-- [Conferences Diversitech - Tribaja 2025]
+- [Conferences]
 - [Books]
 
 <h2>Connect with me:</h2>

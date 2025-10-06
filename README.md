@@ -41,6 +41,7 @@
   
 <h2>Professional Development:</h2> 
 
+- [Capture The Flag Participate: A WiCyS hosted event created by SANS Cybersecurity Training]
 - [Webinar: Decrypted: True Stories of SNHU Cyber Incidents - Job Scam Emails]
 - [Conference: Diversitech - Tribaja 2025]
 

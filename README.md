@@ -34,19 +34,12 @@
 
   - <b> Vulnerability Disclosure Program </b>
 
-<h2>Software Development Projects:</h2>
-
-- <b>Intro To Web Design</b>
-  - Project 1: Hello World!
-- <b>🐍 Python</b>
-
-
 <h2>Certifications:</h2>
 
 <!--- <b>CompTIA Security+</b>-->
   <!--- [CompTIA Security+ Certification Study log](https://github.com/ShekinahMaxwell/CompTIA-Security-Plus_Study_Log/tree/main)-->
   
-<h2>Professioinal Development</h2> 
+<h2>Professional Development:</h2> 
 
 - [Webinar: Decrypted: True Stories of SNHU Cyber Incidents - Job Scam Emails]
 

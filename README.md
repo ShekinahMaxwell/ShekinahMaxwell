@@ -39,8 +39,9 @@
 
 - [Capture The Flag Events](https://github.com/ShekinahMaxwell/Capture-The-Flag-Events.git)
 - [Try Hack Me]
-- [Webinars Decrypted: True Stories of SNHU Cyber Incidents - Job Scam Emails]
+- [Webinars]
 - [Conferences Diversitech - Tribaja 2025]
+- [Books]
 
 <h2>Connect with me:</h2>
 

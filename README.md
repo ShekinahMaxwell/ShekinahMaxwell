@@ -1,4 +1,4 @@
-<h1>Hello. Welcome to my GitHub.</h1>
+<h1>Hi! Welcome to my GitHub.</h1>
 
 <h2>👩🏽‍💻 Information Technology Projects:</h2>
 
@@ -13,8 +13,7 @@
    
 - <b>General IT</b>
   - [PC Disassembly](https://github.com/ShekinahMaxwell/PC_Disassembly)
-  - [PC Assembly]   
-  - PC Build
+  - [PC Build] 
 
 <h2>Cybersecurity Activities Log:</h2>  
 

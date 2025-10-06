@@ -28,8 +28,6 @@
     
   - <b> Remote-in </b>
 
-  - <b> Try Hack Me </b>
-
   - <b> Vulnerability Disclosure Program </b>
 
 <h2>Certifications:</h2>
@@ -39,9 +37,10 @@
   
 <h2>Professional Development:</h2> 
 
-- [Capture The Flag Participate: A WiCyS hosted event created by SANS Cybersecurity Training]
-- [Webinar: Decrypted: True Stories of SNHU Cyber Incidents - Job Scam Emails]
-- [Conference: Diversitech - Tribaja 2025]
+- [Capture The Flag Events]
+- [Try Hack Me]
+- [Webinars Decrypted: True Stories of SNHU Cyber Incidents - Job Scam Emails]
+- [Conferences Diversitech - Tribaja 2025]
 
 <h2>Connect with me:</h2>
 

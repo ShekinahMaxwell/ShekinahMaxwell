@@ -37,7 +37,7 @@
   
 <h2>Professional Development:</h2> 
 
-- [Capture The Flag Events]
+- [Capture The Flag Events](https://github.com/ShekinahMaxwell/Capture-The-Flag-Events.git)
 - [Try Hack Me]
 - [Webinars Decrypted: True Stories of SNHU Cyber Incidents - Job Scam Emails]
 - [Conferences Diversitech - Tribaja 2025]

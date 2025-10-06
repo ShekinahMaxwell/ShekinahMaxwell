@@ -28,8 +28,6 @@
     
   - <b> Remote-in </b>
 
-  - <b> Capture-The-Flag </b>
-
   - <b> Try Hack Me </b>
 
   - <b> Vulnerability Disclosure Program </b>

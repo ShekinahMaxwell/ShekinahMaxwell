@@ -19,9 +19,6 @@
 
   - <b>Active Directory Home Lab</b> <!--(https://github.com/ShekinahMaxwell/ActiveDirectory_Home_Lab)-->
 
-  - <b>Linux</b>
-    - Install a Virtual Machine and run Linux
-
   - <b>PowerShell</b>
     - [Create and Compare Hashes](https://github.com/ShekinahMaxwell/PowerShell-Create_Compare_Hashes)
     

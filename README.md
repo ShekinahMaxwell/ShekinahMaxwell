@@ -1,6 +1,15 @@
-<h1>Hi! Welcome to my GitHub.</h1>
+<h1>Hi! Welcome to my GitHub</h1>
 
-<h2>👩🏽‍💻 Information Technology Projects:</h2>
+<h2>☁️ Cybersecurity Projects:</h2>  
+
+  - <b>Active Directory Home Lab</b> <!--(https://github.com/ShekinahMaxwell/ActiveDirectory_Home_Lab)-->
+
+  - <b>PowerShell</b>
+    - [Create and Compare Hashes](https://github.com/ShekinahMaxwell/PowerShell-Create_Compare_Hashes)
+    
+  - <b> Remote-in </b>
+  
+<h2>🛜 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/ShekinahMaxwell/osTicket-Prereq_Installation)
@@ -15,14 +24,10 @@
   - [PC Disassembly](https://github.com/ShekinahMaxwell/PC_Disassembly)
   - [PC Build] 
 
-<h2>Cybersecurity Activities Log:</h2>  
+<h2>Software Development Projects:</h2>  
 
-  - <b>Active Directory Home Lab</b> <!--(https://github.com/ShekinahMaxwell/ActiveDirectory_Home_Lab)-->
-
-  - <b>PowerShell</b>
-    - [Create and Compare Hashes](https://github.com/ShekinahMaxwell/PowerShell-Create_Compare_Hashes)
-    
-  - <b> Remote-in </b>
+- <b>Intro To Web Design</b>
+  - [Hello World!]<!--(https://github.com/ShekinahMaxwell/HelloWorld)-->
 
 <h2>Certifications:</h2>
 

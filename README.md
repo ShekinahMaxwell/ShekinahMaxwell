@@ -27,7 +27,7 @@
 <h2>Software Development Projects:</h2>  
 
 - <b>Intro To Web Design</b>
-  - [Hello World!]<!--(https://github.com/ShekinahMaxwell/HelloWorld)-->
+  - [Hello World!]<!--(https://github.com/ShekinahMaxwell/Hello_World/blob/main/README.md)-->
 
 <h2>Certifications:</h2>
 

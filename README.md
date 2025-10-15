@@ -6,8 +6,6 @@
 
   - <b>PowerShell</b>
     - [Create and Compare Hashes](https://github.com/ShekinahMaxwell/PowerShell-Create_Compare_Hashes)
-    
-  - <b>Remote-in</b>
   
 <h2>🛜 Information Technology Projects:</h2>
 

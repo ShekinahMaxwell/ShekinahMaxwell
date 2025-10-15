@@ -20,7 +20,7 @@
   - [On-premises Active Directory Deployed in the Cloud (Azure)](https://github.com/ShekinahMaxwell/Active-Directory-Deployed-in-the-Cloud-Azure/blob/main/README.md)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ShekinahMaxwell/Azure_NetworkComputing)
    
-- <b>General IT</b>
+- <b>Hardware</b>
   - [PC Disassembly](https://github.com/ShekinahMaxwell/PC_Disassembly)
   - [PC Build] 
 
